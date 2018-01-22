@@ -1,0 +1,122 @@
+body {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #ECE6DD; 
+}
+
+h1 {
+	text-align: center;
+	font-size: 96px;
+	font-family: sans-serif;
+	color: #FEBE22;
+	text-shadow: 2px 2px #000000; 
+	margin-top: -10px;
+}
+
+h2 {
+	font-size: 36px;
+	font-family: sans-serif;
+	text-align: center;
+	color: #FEBE22;
+	text-shadow: 2px 2px #000000;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+.expandedType {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-top: -30px;
+
+}
+
+#myrun {
+	height: 360px;
+	width: 320px;
+	display: block;
+	float: right;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.leftcol {
+	width: 630px;
+	float: left;
+	display: block;
+	margin-bottom: 10px;
+}
+
+#colfaxStart {
+	width: 400px;
+	display: inline-block;
+	float: left;
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#bolder {
+	width: 200px;
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+	vertical-align: bottom;
+	float: left;
+}
+
+#bolder:hover {
+  transition: all .5s ease-in-out;
+  transform: scale(3)
+}
+
+#hoodtocoast {
+	width: 200px;
+	display: inline;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+	vertical-align: bottom;
+}
+
+#hoodtocoast:hover {
+  transition: all .5s ease-in-out;
+  transform: scale(3)
+}
+
+#photobox {
+	height: 500px;
+	width: 650px;
+	margin-bottom: 0px;
+}
+
+.rightcol {
+	width: 325px;
+	float: right;
+	display: block;
+	margin-bottom: 10px;
+	margin-top: -120px;
+	vertical-align: top;
+}
+
+#emaillist {
+	width: 700px;
+	border-width: 1px;
+	background-color: #ECE6DD;
+	color: #000000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+.form {
+	width:720px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.form input {
+	margin-right: 10px;
+}
